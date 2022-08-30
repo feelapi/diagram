@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T23:05:01.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" version="20.2.4" etag="5JDI-u9gqwP5tg7Dgzm9" type="github"><diagram id="y2NifuLk6lPBFy3OzGEm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-30T01:33:54.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" etag="3qVTVSxkl7Mp6xIHMeod" version="20.2.4" type="github">
+  <diagram id="y2NifuLk6lPBFy3OzGEm" name="第 1 页">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ItL5ll697wTPuohFRSYB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ItL5ll697wTPuohFRSYB-3" target="ItL5ll697wTPuohFRSYB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ItL5ll697wTPuohFRSYB-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="18.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ItL5ll697wTPuohFRSYB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ItL5ll697wTPuohFRSYB-4" target="ItL5ll697wTPuohFRSYB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ItL5ll697wTPuohFRSYB-4" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="350" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ItL5ll697wTPuohFRSYB-5" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/workstation_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ItL5ll697wTPuohFRSYB-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="236.25" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
